@@ -1,0 +1,14 @@
+C:\Users\yuced\Desktop\C#\repos\BookStore\bin\Release\netcoreapp3.1\BookStore.exe
+C:\Users\yuced\Desktop\C#\repos\BookStore\bin\Release\netcoreapp3.1\BookStore.deps.json
+C:\Users\yuced\Desktop\C#\repos\BookStore\bin\Release\netcoreapp3.1\BookStore.runtimeconfig.json
+C:\Users\yuced\Desktop\C#\repos\BookStore\bin\Release\netcoreapp3.1\BookStore.runtimeconfig.dev.json
+C:\Users\yuced\Desktop\C#\repos\BookStore\bin\Release\netcoreapp3.1\BookStore.dll
+C:\Users\yuced\Desktop\C#\repos\BookStore\bin\Release\netcoreapp3.1\BookStore.pdb
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.csproj.AssemblyReference.cache
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.AssemblyInfo.cs
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.dll
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.pdb
+C:\Users\yuced\Desktop\C#\repos\BookStore\obj\Release\netcoreapp3.1\BookStore.genruntimeconfig.cache

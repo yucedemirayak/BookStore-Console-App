@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJf7/PYpWtUwzvvnpTUn70ZeqlP6CtLrQ3OtxlFxmO61gnTLHWByHBRXR7rLEocPsUd8kw9d5yCO5apyl1+58g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuced\\Desktop\\Git Directories\\BookStore - Git\\BookStore\\BookStore\\BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuced\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
